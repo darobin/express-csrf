@@ -1,0 +1,12 @@
+{
+    "name":         "express-csrf"
+,   "description":  "Small helper plugin for the CSRF middleware in Express"
+,   "version":      "0.0.1"
+,   "author":       "Robin Berjon <robin@berjon.com>"
+,   "dependencies": {
+    }
+,   "devDependencies": {
+    }
+,   "repository":   "git://github.com/darobin/express-csrf"
+,   "main":         "index"
+}
