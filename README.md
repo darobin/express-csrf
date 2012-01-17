@@ -12,12 +12,12 @@ Not much really, but I found myself pasting this code over and over again, hence
 
     // somewhere after session and body parsing have been set up, but before any of your
     // handlers kick in
-    require("express-csrf").plugCSRF(app);
+    require("express-csrf-plug").plugCSRF(app);
     
 
 ## Installation
 
-    $ npm install express-csrf
+    $ npm install express-csrf-plug
 
 ## Interface
 
